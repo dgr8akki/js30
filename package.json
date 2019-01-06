@@ -2,6 +2,7 @@
   "name": "js30",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dgr8akki.github.io/js30/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",

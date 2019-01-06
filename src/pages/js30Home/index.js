@@ -1,9 +1,9 @@
 import React from 'react';
 
 const LandingPage = () => (
-  <div>
-    <a href="/day/1">Day 1</a>
-  </div>);
+  <h1>
+    Day 1
+  </h1>);
 
 LandingPage.propTypes = {
 };
