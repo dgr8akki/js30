@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://dgr8akki.github.io/js30/",
   "dependencies": {
+    "antd": "^3.11.6",
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
