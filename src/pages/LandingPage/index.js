@@ -7,7 +7,12 @@ const LandingPage = () => (
     <Row gutter={16}>
       <Col span={8}>
         <Link to="/day/1">
-        <Card title="Day 1" bordered={false}>JavaScript Drums Kit</Card>
+        <Card title="Day 1" bordered>JavaScript Drums Kit</Card>
+        </Link>
+      </Col>
+      <Col span={8}>
+        <Link to="/day/2">
+          <Card title="Day 2" bordered>Pure CSS Clock</Card>
         </Link>
       </Col>
     </Row>
